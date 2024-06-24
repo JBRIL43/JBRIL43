@@ -32,12 +32,9 @@
 
 <br>
 
-![issmuth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issmuth&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+![issmuth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JBRIL43&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 <img src="https://github.com/Issmuth/Issmuth/blob/main/output-onlinegiftools.gif" alt="Alt Text 1" align="right" width="300" />
 
 ---
 <br>
 <br>
-
-
-![](https://komarev.com/ghpvc/?username=Issmuth&color=blue)
