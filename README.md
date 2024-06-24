@@ -31,3 +31,5 @@
 ![JBRIL43's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JBRIL43&theme=algolia&hide_border=true)
 
 <br>
+
+![JBRIL43's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JBRIL43&theme=algolia&show_icons=true&hide_border=true&layout=compact)
